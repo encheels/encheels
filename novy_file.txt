@@ -20,4 +20,4 @@ ze ked chcem editovat subor, musim si ho stiahnut a potom znovu uploadovat, co j
 19:00
 takze asi to bude vsetko, co som chcel povedat o tomto subore
 diky za pozornost a tesim sa na dalsie skusky a projekty,
-kde budem moct pouzivat tento subor a pridavat do neho veci, ktore sa naucim a zistim
+kde budem moct pouzivat tento subor a pridavat do neho veci, ktore sa naucim a zistim.
